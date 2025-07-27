@@ -8,8 +8,8 @@ Olá! 👋 Sou Bruno Alves, estudante de Ciência da Computação na UFC - Quixa
 - ⚙️ Experiência com **C++** para projetos de sistemas de maior desempenho.
 - 📫 Contato:
 
-<a href="mailto:seu-email-aqui@exemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/seu-perfil-aqui/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:jorge.bruno0921@alu.ufc.br"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/bruno-alves-3b16a6224/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <br/>
 
